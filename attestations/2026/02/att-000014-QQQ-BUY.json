@@ -1,0 +1,19 @@
+{
+  "sequence_number": 14,
+  "attestation_hash": "a0e7cf81fd90103ba93c96050b44859bbbce32bac09fb0cd5e4ea731d285e558",
+  "previous_hash": "0e3066fce8688edf0a3e342f8e18c78f367e85eafbd221bbe0888c0994deb3cd",
+  "version": 1,
+  "trade_id": 15,
+  "trade_date": "2026-01-29",
+  "ticker": "QQQ",
+  "quantity": 2.0,
+  "price": 625.77,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": null,
+  "trade_created_at": "2026-01-29T19:45:00.574440",
+  "market_price": null,
+  "market_snapshot_at": null,
+  "attested_at": "2026-02-20T21:58:56.020905",
+  "is_retroactive": true
+}
