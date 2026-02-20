@@ -1,0 +1,19 @@
+{
+  "sequence_number": 69,
+  "attestation_hash": "52bae5b99c31735171822e97edb6deb578842cf823100cc4d4c90d16672c2cae",
+  "previous_hash": "89d8c95f7a9f8a09ab78cb04f387dcf26b0abbf911f2b7262ca3300ab639f2ad",
+  "version": 1,
+  "trade_id": 70,
+  "trade_date": "2026-02-13",
+  "ticker": "USO",
+  "quantity": 13.0,
+  "price": 76.19999694824219,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": "Add 100 BP",
+  "trade_created_at": "2026-02-13T21:29:16.505178",
+  "market_price": null,
+  "market_snapshot_at": null,
+  "attested_at": "2026-02-20T21:58:56.056721",
+  "is_retroactive": true
+}
