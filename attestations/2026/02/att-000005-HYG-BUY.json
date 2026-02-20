@@ -1,0 +1,19 @@
+{
+  "sequence_number": 5,
+  "attestation_hash": "6d869aa04a794fe01c6575ce0af8133a6d21158e5d674199a6041a60938f2994",
+  "previous_hash": "23964f9c8fa8c6c971b51fa5ffd13107a6a8310eeb0c2d743fca4c5dd891c63d",
+  "version": 1,
+  "trade_id": 6,
+  "trade_date": "2026-01-29",
+  "ticker": "HYG",
+  "quantity": 47.0,
+  "price": 81.0,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": null,
+  "trade_created_at": "2026-01-29T16:03:46.642603",
+  "market_price": null,
+  "market_snapshot_at": null,
+  "attested_at": "2026-02-20T21:58:56.010093",
+  "is_retroactive": true
+}
