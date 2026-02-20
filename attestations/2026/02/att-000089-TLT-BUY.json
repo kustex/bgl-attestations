@@ -1,0 +1,19 @@
+{
+  "sequence_number": 89,
+  "attestation_hash": "2853707ee52e4f71c81e62ec649f699ca748e293b9d2abdc713d6168574e363b",
+  "previous_hash": "296a0e7d71ce053d268621104c62391bdb4dab371b45b39301aff35db4ec9a90",
+  "version": 1,
+  "trade_id": 90,
+  "trade_date": "2026-02-20",
+  "ticker": "TLT",
+  "quantity": 34.0,
+  "price": 89.22,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": null,
+  "trade_created_at": "2026-02-20T17:48:54.875805",
+  "market_price": null,
+  "market_snapshot_at": null,
+  "attested_at": "2026-02-20T21:58:56.065545",
+  "is_retroactive": true
+}
