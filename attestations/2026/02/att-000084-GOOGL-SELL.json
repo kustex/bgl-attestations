@@ -1,0 +1,19 @@
+{
+  "sequence_number": 84,
+  "attestation_hash": "02a7ecb2904dd2d92433d80ccd6538e2331f279f770679e55ab63ea635df1b20",
+  "previous_hash": "95bf1d0535a550887aca95f8861a12428f437a2539af57a51c28d85b063bfb1e",
+  "version": 1,
+  "trade_id": 85,
+  "trade_date": "2026-02-19",
+  "ticker": "GOOGL",
+  "quantity": 6.0,
+  "price": 302.9906921386719,
+  "side": "SELL",
+  "leverage": 1.0,
+  "notes": "Close 100%",
+  "trade_created_at": "2026-02-19T21:36:54.494505",
+  "market_price": null,
+  "market_snapshot_at": null,
+  "attested_at": "2026-02-20T21:58:56.063400",
+  "is_retroactive": true
+}
