@@ -1,0 +1,19 @@
+{
+  "sequence_number": 33,
+  "attestation_hash": "8e805aba2ad30724c4eb61fbb7ea3a0a29fc065b0a44ac9acd77d00357e88739",
+  "previous_hash": "e94941d9464b8c528f187808c5dca395497cb2dd48af49558d7fac0521078d7c",
+  "version": 1,
+  "trade_id": 34,
+  "trade_date": "2026-02-02",
+  "ticker": "JPXN",
+  "quantity": 16.0,
+  "price": 91.77,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": null,
+  "trade_created_at": "2026-02-02T21:08:02.472066",
+  "market_price": null,
+  "market_snapshot_at": null,
+  "attested_at": "2026-02-20T21:58:56.030488",
+  "is_retroactive": true
+}
