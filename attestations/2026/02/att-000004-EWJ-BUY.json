@@ -1,0 +1,19 @@
+{
+  "sequence_number": 4,
+  "attestation_hash": "23964f9c8fa8c6c971b51fa5ffd13107a6a8310eeb0c2d743fca4c5dd891c63d",
+  "previous_hash": "8671a06e5439adcec3045e454bbefdfeda55843f19baabed26435c737f9bc6a6",
+  "version": 1,
+  "trade_id": 5,
+  "trade_date": "2026-01-28",
+  "ticker": "EWJ",
+  "quantity": 11.0,
+  "price": 85.22,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": null,
+  "trade_created_at": "2026-01-28T21:59:08.455886",
+  "market_price": null,
+  "market_snapshot_at": null,
+  "attested_at": "2026-02-20T21:58:56.009446",
+  "is_retroactive": true
+}
