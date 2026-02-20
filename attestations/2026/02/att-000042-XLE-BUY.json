@@ -1,0 +1,19 @@
+{
+  "sequence_number": 42,
+  "attestation_hash": "ae2fd58f7e74ecde04809285200f7e1fd12143158d8f8d7134587c05dbb81f20",
+  "previous_hash": "a6b32d8c2225327c2eb2fc830c17759f7205c73b9cbca78227beea84117972aa",
+  "version": 1,
+  "trade_id": 43,
+  "trade_date": "2026-02-05",
+  "ticker": "XLE",
+  "quantity": 38.0,
+  "price": 52.24,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": null,
+  "trade_created_at": "2026-02-05T20:31:14.291088",
+  "market_price": null,
+  "market_snapshot_at": null,
+  "attested_at": "2026-02-20T21:58:56.039805",
+  "is_retroactive": true
+}
