@@ -1,0 +1,19 @@
+{
+  "sequence_number": 85,
+  "attestation_hash": "c0fc5e020d1d1f1a8952e27772eb0b5a1160c21ca813b7fae0d93e62384eb8b6",
+  "previous_hash": "02a7ecb2904dd2d92433d80ccd6538e2331f279f770679e55ab63ea635df1b20",
+  "version": 1,
+  "trade_id": 86,
+  "trade_date": "2026-02-19",
+  "ticker": "HECA",
+  "quantity": 17.0,
+  "price": 30.190000534057617,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": "Add 50 BP",
+  "trade_created_at": "2026-02-19T21:40:24.971200",
+  "market_price": null,
+  "market_snapshot_at": null,
+  "attested_at": "2026-02-20T21:58:56.063839",
+  "is_retroactive": true
+}
