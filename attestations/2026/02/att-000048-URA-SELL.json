@@ -1,0 +1,19 @@
+{
+  "sequence_number": 48,
+  "attestation_hash": "5e33544b68775e7c4ffc9be1cffd5dfeda9ad6924ea5c88a7dc2e83fee23b50c",
+  "previous_hash": "72b2bdb8e97347a20f9897ae48617652f91c4cac2fd6122abb3920b7a17c2413",
+  "version": 1,
+  "trade_id": 49,
+  "trade_date": "2026-02-05",
+  "ticker": "URA",
+  "quantity": 8.0,
+  "price": 49.26499938964844,
+  "side": "SELL",
+  "leverage": 1.0,
+  "notes": "Close 25%",
+  "trade_created_at": "2026-02-05T23:40:11.437080",
+  "market_price": null,
+  "market_snapshot_at": null,
+  "attested_at": "2026-02-20T21:58:56.042800",
+  "is_retroactive": true
+}
