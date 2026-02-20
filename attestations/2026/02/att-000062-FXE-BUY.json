@@ -1,0 +1,19 @@
+{
+  "sequence_number": 62,
+  "attestation_hash": "196d623349f858709b930561c36a6c1255b0f97a29f3c9739bee830f64e23626",
+  "previous_hash": "0131308b87fe435686e268753535e6c86758dde04c1c3533fcd489f1091d9b18",
+  "version": 1,
+  "trade_id": 63,
+  "trade_date": "2026-02-12",
+  "ticker": "FXE",
+  "quantity": 9.0,
+  "price": 109.49500274658203,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": "Add 100 BP",
+  "trade_created_at": "2026-02-12T20:38:08.544424",
+  "market_price": null,
+  "market_snapshot_at": null,
+  "attested_at": "2026-02-20T21:58:56.049460",
+  "is_retroactive": true
+}
