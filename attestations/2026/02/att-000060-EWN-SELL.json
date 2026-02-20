@@ -1,0 +1,19 @@
+{
+  "sequence_number": 60,
+  "attestation_hash": "e5f269841d3d9352c164cad8e34d68806a8d74602bfcfc13fcc449afe1065c2f",
+  "previous_hash": "8c28caccabc38994f7d8bca8280f461c8ac3a319f8190f61b7f7d804f611438b",
+  "version": 1,
+  "trade_id": 61,
+  "trade_date": "2026-02-12",
+  "ticker": "EWN",
+  "quantity": 34.0,
+  "price": 63.060001373291016,
+  "side": "SELL",
+  "leverage": 1.0,
+  "notes": "Close 100%",
+  "trade_created_at": "2026-02-12T07:47:26.367853",
+  "market_price": null,
+  "market_snapshot_at": null,
+  "attested_at": "2026-02-20T21:58:56.048549",
+  "is_retroactive": true
+}
