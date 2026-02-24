@@ -1,0 +1,19 @@
+{
+  "sequence_number": 107,
+  "attestation_hash": "42d2510f98e8c3132c9ea0228c9b3d6d31fc179a40f753e0da6c8b5d4c4f7736",
+  "previous_hash": "4efa89251129e8236ed9976507bbb29646288e45bc78333ad4f7c49ddb3caceb",
+  "version": 1,
+  "trade_id": 111,
+  "trade_date": "2026-02-24",
+  "ticker": "INDA",
+  "quantity": 19.0,
+  "price": 52.85499954223633,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": "Add 100 BP",
+  "trade_created_at": "2026-02-24T17:11:45.319016",
+  "market_price": 52.85499954223633,
+  "market_snapshot_at": "2026-02-24 00:00:00",
+  "attested_at": "2026-02-24T17:11:45.319044",
+  "is_retroactive": false
+}
