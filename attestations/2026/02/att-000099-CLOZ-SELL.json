@@ -1,0 +1,19 @@
+{
+  "sequence_number": 99,
+  "attestation_hash": "0068e9b7cb7450f7f373a0464a2d2323d922d355b95ff1d2ab653420577742ab",
+  "previous_hash": "39171ba3e770d157e81c0e4b920d7a11e0770c47d0e28aca513ecf88d540c311",
+  "version": 1,
+  "trade_id": 103,
+  "trade_date": "2026-02-24",
+  "ticker": "CLOZ",
+  "quantity": 70.0,
+  "price": 26.344999313354492,
+  "side": "SELL",
+  "leverage": 1.0,
+  "notes": "Close 25%",
+  "trade_created_at": "2026-02-24T16:10:36.393308",
+  "market_price": 26.344999313354492,
+  "market_snapshot_at": "2026-02-24 00:00:00",
+  "attested_at": "2026-02-24T16:10:36.393338",
+  "is_retroactive": false
+}
