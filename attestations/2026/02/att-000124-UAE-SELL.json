@@ -1,0 +1,19 @@
+{
+  "sequence_number": 124,
+  "attestation_hash": "1b540ca381cda589a33a6297e50dee7a8c8fdb50e32903ca467c1dc325028070",
+  "previous_hash": "378c370760e9d6150c881fe4a1002f8e67400131337adabfb7b0b327ae543c21",
+  "version": 1,
+  "trade_id": 128,
+  "trade_date": "2026-02-26",
+  "ticker": "UAE",
+  "quantity": 94.0,
+  "price": 21.65,
+  "side": "SELL",
+  "leverage": 1.0,
+  "notes": null,
+  "trade_created_at": "2026-02-26T17:33:03.603578",
+  "market_price": 21.645000457763672,
+  "market_snapshot_at": "2026-02-26 00:00:00",
+  "attested_at": "2026-02-26T17:33:03.603586",
+  "is_retroactive": false
+}
