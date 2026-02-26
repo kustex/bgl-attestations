@@ -1,0 +1,19 @@
+{
+  "sequence_number": 111,
+  "attestation_hash": "89559073dd91ea9ad8fe650d6500cb0cbca8931835a92a20ae8b9687397bab84",
+  "previous_hash": "04d6175a01015115daadffd4ed6e38755683902a5fe04b9a9f6811e2e122ee4b",
+  "version": 1,
+  "trade_id": 115,
+  "trade_date": "2026-02-26",
+  "ticker": "TUR",
+  "quantity": 12.0,
+  "price": 41.25830078125,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": "Add 50 BP",
+  "trade_created_at": "2026-02-26T16:10:25.162667",
+  "market_price": 41.25830078125,
+  "market_snapshot_at": "2026-02-26 00:00:00",
+  "attested_at": "2026-02-26T16:10:25.162682",
+  "is_retroactive": false
+}
