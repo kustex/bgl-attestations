@@ -1,0 +1,19 @@
+{
+  "sequence_number": 128,
+  "attestation_hash": "05a4cb6a4c20512bb457a76705f9fa4446fb6a0b591ff0c9b488a4c7b2e9fc18",
+  "previous_hash": "393dd3bb4d3a1b92b3d8217033d6df5dbb6bc93434b0c6ec9bbb2abca9592490",
+  "version": 1,
+  "trade_id": 132,
+  "trade_date": "2026-02-26",
+  "ticker": "EWK",
+  "quantity": 19.0,
+  "price": 26.530000686645508,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": "Add 50 BP",
+  "trade_created_at": "2026-02-26T19:24:56.744443",
+  "market_price": 26.530000686645508,
+  "market_snapshot_at": "2026-02-26 00:00:00",
+  "attested_at": "2026-02-26T19:24:56.744464",
+  "is_retroactive": false
+}
