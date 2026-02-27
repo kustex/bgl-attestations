@@ -1,0 +1,19 @@
+{
+  "sequence_number": 131,
+  "attestation_hash": "0b1a5d6be81a8fd4e6f367c150eee4f23dab2473d400c69b9b7b26b207495df8",
+  "previous_hash": "48a951505542958de2fbc26a3ba898bc2a59b1c6defc7f1e5cdcd89cdabdc917",
+  "version": 1,
+  "trade_id": 135,
+  "trade_date": "2026-02-27",
+  "ticker": "AAAU",
+  "quantity": 15.0,
+  "price": 51.91999816894531,
+  "side": "SELL",
+  "leverage": 1.0,
+  "notes": "Close 25%",
+  "trade_created_at": "2026-02-27T22:53:11.089711",
+  "market_price": 51.91999816894531,
+  "market_snapshot_at": "2026-02-27 00:00:00",
+  "attested_at": "2026-02-27T22:53:11.089728",
+  "is_retroactive": false
+}
