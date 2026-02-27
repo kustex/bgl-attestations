@@ -1,0 +1,19 @@
+{
+  "sequence_number": 134,
+  "attestation_hash": "ea43cc30234691dc327b7d305e3d5442545dfb5004cf990fa666e9ab4aa0181f",
+  "previous_hash": "a5ba5a672658c43de5d4b233728f40e06735b7172b8a3f0744ed4e2ba0b83446",
+  "version": 1,
+  "trade_id": 138,
+  "trade_date": "2026-02-27",
+  "ticker": "ORCL",
+  "quantity": 6.0,
+  "price": 145.39999389648438,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": "Close 100%",
+  "trade_created_at": "2026-02-27T22:54:54.674445",
+  "market_price": 145.39999389648438,
+  "market_snapshot_at": "2026-02-27 00:00:00",
+  "attested_at": "2026-02-27T22:54:54.674478",
+  "is_retroactive": false
+}
