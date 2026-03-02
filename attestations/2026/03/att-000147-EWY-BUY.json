@@ -1,0 +1,19 @@
+{
+  "sequence_number": 147,
+  "attestation_hash": "8b47b6186cb2ddab0652104c8a9ac8be0cc50ced9d23282dddd7e36996ccab4a",
+  "previous_hash": "606d1f75330993e50e8fa9d6c55e3f5f0d895f037c7f46dfc69911fbbf301059",
+  "version": 1,
+  "trade_id": 151,
+  "trade_date": "2026-03-02",
+  "ticker": "EWY",
+  "quantity": 3.0,
+  "price": 146.1300048828125,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": "Add 50 BP",
+  "trade_created_at": "2026-03-02T17:58:40.736564",
+  "market_price": 146.1300048828125,
+  "market_snapshot_at": "2026-03-02 00:00:00",
+  "attested_at": "2026-03-02T17:58:40.736574",
+  "is_retroactive": false
+}
