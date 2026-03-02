@@ -1,0 +1,19 @@
+{
+  "sequence_number": 141,
+  "attestation_hash": "3ae27462b0fa066f5004716106323c24b23e543d3614cd584f22ed49410232e6",
+  "previous_hash": "e7d970df91d184c21be9197f6f7fa803b93044e6d48d015c43ee47bc1600e780",
+  "version": 1,
+  "trade_id": 145,
+  "trade_date": "2026-03-02",
+  "ticker": "EWW",
+  "quantity": 6.0,
+  "price": 79.54000091552734,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": "Add 50 BP",
+  "trade_created_at": "2026-03-02T15:52:52.897309",
+  "market_price": 79.54000091552734,
+  "market_snapshot_at": "2026-03-02 00:00:00",
+  "attested_at": "2026-03-02T15:52:52.897325",
+  "is_retroactive": false
+}
