@@ -1,0 +1,19 @@
+{
+  "sequence_number": 150,
+  "attestation_hash": "410bcde174ea138653152140414d228baeb5db9f6180f73e010e94eff8a9a8ec",
+  "previous_hash": "245edee68d8ff4a43352af373d4335538ec36b13fa3622a74931c72fb0470ab5",
+  "version": 1,
+  "trade_id": 154,
+  "trade_date": "2026-03-02",
+  "ticker": "USO",
+  "quantity": 5.0,
+  "price": 86.25180053710938,
+  "side": "SELL",
+  "leverage": 1.0,
+  "notes": "Close 25%",
+  "trade_created_at": "2026-03-02T18:03:55.380692",
+  "market_price": 86.25180053710938,
+  "market_snapshot_at": "2026-03-02 00:00:00",
+  "attested_at": "2026-03-02T18:03:55.380706",
+  "is_retroactive": false
+}
