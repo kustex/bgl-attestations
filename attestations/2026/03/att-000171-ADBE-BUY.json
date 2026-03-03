@@ -1,0 +1,19 @@
+{
+  "sequence_number": 171,
+  "attestation_hash": "fd7eacdc616011da614bd3c59236b2780200462b81cc586cba588fe1b3350d7c",
+  "previous_hash": "e594ca72df6998c61c75b952417e760758faf728ca74b552b407c511b500d394",
+  "version": 1,
+  "trade_id": 175,
+  "trade_date": "2026-03-03",
+  "ticker": "ADBE",
+  "quantity": 4.0,
+  "price": 269.6600036621094,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": "Add 100 BP",
+  "trade_created_at": "2026-03-03T19:31:19.628302",
+  "market_price": 269.6600036621094,
+  "market_snapshot_at": "2026-03-03 00:00:00",
+  "attested_at": "2026-03-03T19:31:19.628308",
+  "is_retroactive": false
+}
