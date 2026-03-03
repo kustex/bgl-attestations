@@ -1,0 +1,19 @@
+{
+  "sequence_number": 165,
+  "attestation_hash": "1c2b71a84b2d5e512e2c3e9a1219668b7791bdb37fd5b11baf038b1d1915de7b",
+  "previous_hash": "b7372d4d7580704aca7607395c4fa129ffdf9e54e2e889933340a5ab834d05ae",
+  "version": 1,
+  "trade_id": 169,
+  "trade_date": "2026-03-03",
+  "ticker": "EWK",
+  "quantity": 113.0,
+  "price": 25.299999237060547,
+  "side": "SELL",
+  "leverage": 1.0,
+  "notes": "Close 100%",
+  "trade_created_at": "2026-03-03T19:07:23.496076",
+  "market_price": 25.299999237060547,
+  "market_snapshot_at": "2026-03-03 00:00:00",
+  "attested_at": "2026-03-03T19:07:23.496097",
+  "is_retroactive": false
+}
