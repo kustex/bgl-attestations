@@ -1,0 +1,19 @@
+{
+  "sequence_number": 175,
+  "attestation_hash": "e51fd8ccd0ad902d20463911580b0b6bdf88f435fcb8ef01df855f5ac188affc",
+  "previous_hash": "1d33f14bc737e30361daa7885fcfadb5ed20d6a200df2f2ad740ff39d8471e53",
+  "version": 1,
+  "trade_id": 179,
+  "trade_date": "2026-03-03",
+  "ticker": "XLI",
+  "quantity": 6.0,
+  "price": 175.7050018310547,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": "Add 100 BP",
+  "trade_created_at": "2026-03-03T19:34:57.012646",
+  "market_price": 175.7050018310547,
+  "market_snapshot_at": "2026-03-03 00:00:00",
+  "attested_at": "2026-03-03T19:34:57.012656",
+  "is_retroactive": false
+}
