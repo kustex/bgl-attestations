@@ -1,0 +1,19 @@
+{
+  "sequence_number": 183,
+  "attestation_hash": "31bee44664036c20370ee35395f08530d83917b199ae873fcc55f7c3c2f72db5",
+  "previous_hash": "00b02f58f7c57674c3f9a07b7ed98452d6133e8a77bd10dafd5c1d0211464536",
+  "version": 1,
+  "trade_id": 187,
+  "trade_date": "2026-03-05",
+  "ticker": "IDX",
+  "quantity": 18.0,
+  "price": 14.649999618530273,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": "Close 25%",
+  "trade_created_at": "2026-03-05T17:02:31.613437",
+  "market_price": 14.649999618530273,
+  "market_snapshot_at": "2026-03-05 00:00:00",
+  "attested_at": "2026-03-05T17:02:31.613460",
+  "is_retroactive": false
+}
