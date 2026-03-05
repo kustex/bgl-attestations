@@ -1,0 +1,19 @@
+{
+  "sequence_number": 186,
+  "attestation_hash": "6b8e4a6e59282f0dd503b06b6a92d587f084c32494ed2271a08ac299dcb4d867",
+  "previous_hash": "7b7e8115614b6d6c64fc769ebdb2b0a5011a24b552c33351a7b9363ad5aa47e0",
+  "version": 1,
+  "trade_id": 190,
+  "trade_date": "2026-03-05",
+  "ticker": "LIT",
+  "quantity": 14.0,
+  "price": 68.95999908447266,
+  "side": "SELL",
+  "leverage": 1.0,
+  "notes": "Close 100%",
+  "trade_created_at": "2026-03-05T21:26:44.452312",
+  "market_price": 68.95999908447266,
+  "market_snapshot_at": "2026-03-05 00:00:00",
+  "attested_at": "2026-03-05T21:26:44.452324",
+  "is_retroactive": false
+}
