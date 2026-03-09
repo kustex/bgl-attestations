@@ -1,0 +1,19 @@
+{
+  "sequence_number": 190,
+  "attestation_hash": "f74aaa3c0a28451688ee17ae6103bba157f54e3b36c3d8c97487383fc520c258",
+  "previous_hash": "60cbce00392d9811b40012a7bcc2a55ee8678ad1b9683e33fdf98879739a7a09",
+  "version": 1,
+  "trade_id": 194,
+  "trade_date": "2026-03-09",
+  "ticker": "BLOK",
+  "quantity": 7.0,
+  "price": 51.974998474121094,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": "Close 25%",
+  "trade_created_at": "2026-03-09T16:16:29.879326",
+  "market_price": 51.974998474121094,
+  "market_snapshot_at": "2026-03-09 00:00:00",
+  "attested_at": "2026-03-09T16:16:29.879344",
+  "is_retroactive": false
+}
