@@ -1,0 +1,19 @@
+{
+  "sequence_number": 196,
+  "attestation_hash": "d49cbf827c7af22cea3c402c3d4731d535fec27a3984523d5180307dd1eb6b6e",
+  "previous_hash": "f5e47a4458d1bdc6126c2cc4d265a2e096569665b184a010762247ef07599b58",
+  "version": 1,
+  "trade_id": 200,
+  "trade_date": "2026-03-09",
+  "ticker": "EWJ",
+  "quantity": 31.0,
+  "price": 85.63999938964844,
+  "side": "SELL",
+  "leverage": 1.0,
+  "notes": "Close 100%",
+  "trade_created_at": "2026-03-09T21:34:44.755113",
+  "market_price": 85.63999938964844,
+  "market_snapshot_at": "2026-03-09 00:00:00",
+  "attested_at": "2026-03-09T21:34:44.755160",
+  "is_retroactive": false
+}
