@@ -1,0 +1,19 @@
+{
+  "sequence_number": 197,
+  "attestation_hash": "4429bb4afbe7c013828d4e1e6ac523b904b8acf30f9e67e23ac60e9729739c89",
+  "previous_hash": "d49cbf827c7af22cea3c402c3d4731d535fec27a3984523d5180307dd1eb6b6e",
+  "version": 1,
+  "trade_id": 201,
+  "trade_date": "2026-03-10",
+  "ticker": "IGV",
+  "quantity": 8.0,
+  "price": 86.45500183105469,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": "Close 25%",
+  "trade_created_at": "2026-03-10T17:40:29.261549",
+  "market_price": 86.45500183105469,
+  "market_snapshot_at": "2026-03-10 00:00:00",
+  "attested_at": "2026-03-10T17:40:29.261570",
+  "is_retroactive": false
+}
