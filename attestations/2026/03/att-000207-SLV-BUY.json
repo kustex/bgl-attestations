@@ -1,0 +1,19 @@
+{
+  "sequence_number": 207,
+  "attestation_hash": "92e25fd69113e943c08a44088432b5e0f0b8037a4b4145f80eaf816f81919de7",
+  "previous_hash": "670ca64bfbc8c78f66406ea4ae2208a24f8c0d6a8f17371b24963d5b40bbe868",
+  "version": 1,
+  "trade_id": 211,
+  "trade_date": "2026-03-12",
+  "ticker": "SLV",
+  "quantity": 13.0,
+  "price": 77.12000274658203,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": "Add 100 BP",
+  "trade_created_at": "2026-03-12T17:32:33.684833",
+  "market_price": 77.12000274658203,
+  "market_snapshot_at": "2026-03-12 00:00:00",
+  "attested_at": "2026-03-12T17:32:33.684858",
+  "is_retroactive": false
+}
