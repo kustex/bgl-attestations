@@ -1,0 +1,19 @@
+{
+  "sequence_number": 208,
+  "attestation_hash": "c517d8613058f2efaa29713beacf24db7e4cf0012b39ae8f7f21033ad8524d5b",
+  "previous_hash": "92e25fd69113e943c08a44088432b5e0f0b8037a4b4145f80eaf816f81919de7",
+  "version": 1,
+  "trade_id": 212,
+  "trade_date": "2026-03-12",
+  "ticker": "AAAU",
+  "quantity": 50.0,
+  "price": 50.15999984741211,
+  "side": "BUY",
+  "leverage": 1.0,
+  "notes": "Add 250 BP",
+  "trade_created_at": "2026-03-12T21:29:58.583866",
+  "market_price": 50.15999984741211,
+  "market_snapshot_at": "2026-03-12 00:00:00",
+  "attested_at": "2026-03-12T21:29:58.583880",
+  "is_retroactive": false
+}
