@@ -1,0 +1,19 @@
+{
+  "sequence_number": 204,
+  "attestation_hash": "e2654808208d16d79b0734b9b435c07a3db86f95407bec07cbb13e1debf4a2f6",
+  "previous_hash": "574e128b321a30d2763e45c0727abb13ce5a263eff0a00922f0a667f707fda50",
+  "version": 1,
+  "trade_id": 208,
+  "trade_date": "2026-03-12",
+  "ticker": "XLI",
+  "quantity": 17.0,
+  "price": 166.64999389648438,
+  "side": "SELL",
+  "leverage": 1.0,
+  "notes": "Close 100%",
+  "trade_created_at": "2026-03-12T17:03:41.646017",
+  "market_price": 166.64999389648438,
+  "market_snapshot_at": "2026-03-12 00:00:00",
+  "attested_at": "2026-03-12T17:03:41.646027",
+  "is_retroactive": false
+}
