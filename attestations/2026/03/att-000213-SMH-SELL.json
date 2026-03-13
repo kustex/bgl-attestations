@@ -1,0 +1,19 @@
+{
+  "sequence_number": 213,
+  "attestation_hash": "014f567096f64f6564239fc7aa549620613c357683647766a3e1a06abd8b3661",
+  "previous_hash": "93847f18c2f681912efd5b2e801aaa51dfb9928fda1b8d501c4e6c38dafede88",
+  "version": 1,
+  "trade_id": 217,
+  "trade_date": "2026-03-13",
+  "ticker": "SMH",
+  "quantity": 5.0,
+  "price": 387.922607421875,
+  "side": "SELL",
+  "leverage": 1.0,
+  "notes": "Close 100%",
+  "trade_created_at": "2026-03-13T17:07:08.112673",
+  "market_price": 388.6050109863281,
+  "market_snapshot_at": "2026-03-13 00:00:00",
+  "attested_at": "2026-03-13T17:07:08.112713",
+  "is_retroactive": false
+}
