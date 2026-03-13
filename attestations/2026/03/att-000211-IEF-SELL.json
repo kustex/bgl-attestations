@@ -1,0 +1,19 @@
+{
+  "sequence_number": 211,
+  "attestation_hash": "d5449260d393f95237b3e0497ca36d3488cc56d7223bcdfa857cfd2e4d06af95",
+  "previous_hash": "c95e6cab909543dd61b2a2c062ee80f1be2e96db4c24a0cced06b28a4abff692",
+  "version": 1,
+  "trade_id": 215,
+  "trade_date": "2026-03-13",
+  "ticker": "IEF",
+  "quantity": 36.0,
+  "price": 95.58499908447266,
+  "side": "SELL",
+  "leverage": 1.0,
+  "notes": "Close 100%",
+  "trade_created_at": "2026-03-13T17:02:11.196080",
+  "market_price": 95.58499908447266,
+  "market_snapshot_at": "2026-03-13 00:00:00",
+  "attested_at": "2026-03-13T17:02:11.196112",
+  "is_retroactive": false
+}
